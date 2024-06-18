@@ -22,7 +22,9 @@ The B-Consortium Quarterly was introduced in the consortium accords, on `18 June
 
 Under SR #1, it is stated:
 ```
-The consortium will implement libraries, CLI's, and interfaces, but the consortium in this research activity will take no aid of any graphical interfaces, whatever the necessity is.
+The consortium will implement libraries, CLI's, and interfaces,
+but the consortium in this research activity will take no aid
+of any graphical interfaces, whatever the necessity is.
 ```
 
 This is defined by consortium not as a graphical interface but markup hence compatible to standard rules set forth.
