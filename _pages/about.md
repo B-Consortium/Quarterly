@@ -18,8 +18,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+The B-Consortium Quarterly was introduced in the consortium accords, on `18 June, 2024` as the first openly accessible communication. The site was introduced in an influence to predecessors [AitSad](https://github.com/AitSad), the only surviving material hence forth. Quarterly is introduced to archive research or activities produced by the the consortium. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Under SR #1, it is stated:
+```
+The consortium will implement libraries, CLI's, and interfaces, but the consortium in this research activity will take no aid of any graphical interfaces, whatever the necessity is.
+```
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+This is defined by consortium not as a graphical interface but markup hence compatible to standard rules set forth.
