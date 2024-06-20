@@ -3,9 +3,9 @@ layout: about
 title: home
 permalink: /
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 The B-Consortium Quarterly was introduced in the consortium accords, on `18 June, 2024` as the first openly accessible communication. The site was introduced in an influence to predecessors [AitSad](https://github.com/AitSad), the only surviving material hence forth. Quarterly is introduced to archive research or activities produced by the the consortium. 
@@ -18,3 +18,4 @@ necessity is.
 ```
 
 This is defined by consortium not as a graphical interface but markup hence compatible to standard rules set forth.
+
